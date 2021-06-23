@@ -1,0 +1,7 @@
+['Allan', 60]
+['Allan', 60]
+['Marianna', 60]
+['Allan', 54]
+['Allan', 49]
+['Marianna', 45]
+['Marianna', 42]
